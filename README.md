@@ -1,6 +1,6 @@
 <img align="right" height="32" src="https://coinstorm.net/ioc_logo_fund.png">
 
-# Internet of Coins hybridd node system
+# Internet of Coins module deterministic
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains module-deterministic used by Internet of Coins daemon h
 
 ## Usage
 
-This code is not to be run directly. Instead compiling the routines can be done using the script compileall.sh in ./modules/deterministic . The resulting lzma packages created in subfolders can be placed in the modules/deterministic/cryptocurrency directories in hybridd, and will be used by the daemon to inject code in the browser session when using the GUI wallet.
+This code is not to be run directly. Instead compiling the routines can be done using the script <i>compileall.sh<i> in modules/deterministic . The resulting lzma packages created in subfolders can be placed in the modules/deterministic/cryptocurrency directories of repository <i>hybridd<i>, and will be used by the daemon to inject code in the browser session when using the GUI wallet.
 
 ## Authors
 
