@@ -2,6 +2,8 @@
 
 # Internet of Coins module deterministic
 
+## NOTICE: We have migrated. Find our latest code here: https://github.com/hybrix-io
+
 ## Overview
 
 This repository contains module-deterministic used by Internet of Coins daemon hybridd. The module provides deterministic code routines to create trustless transactions that can be pushed into cryptocurrency networks.
